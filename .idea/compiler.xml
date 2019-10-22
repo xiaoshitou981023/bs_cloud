@@ -29,14 +29,14 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="commons" options="-parameters" />
-      <module name="email" options="-parameters" />
+      <module name="commons" options="" />
+      <module name="email" options="" />
       <module name="eureka" options="-parameters" />
-      <module name="gateway" options="-parameters" />
+      <module name="gateway" options="" />
       <module name="mail" options="-parameters" />
-      <module name="minio" options="-parameters" />
-      <module name="oauth2" options="-parameters" />
-      <module name="system" options="-parameters" />
+      <module name="minio" options="" />
+      <module name="oauth2" options="" />
+      <module name="system" options="" />
       <module name="zipkin" options="-parameters" />
     </option>
   </component>
